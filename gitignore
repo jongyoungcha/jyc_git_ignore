@@ -1,0 +1,14 @@
+*.*
+!*.cpp
+!*.hpp
+!*.c
+!*.h
+!*.py
+!CMakeLists.txt
+!.dir-locals.el
+jyc_cheat_server
+jyc_cheat_client
+jyc_cheat_test_ncurses
+CTest
+Makefile
+CMakeFiles
